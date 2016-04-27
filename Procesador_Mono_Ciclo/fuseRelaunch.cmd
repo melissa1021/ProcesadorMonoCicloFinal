@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -o "C:/Users/Melissa/Documents/Arquitectura/Ejercicios_Xilinx/Procesador_Mono_Ciclo/TBALU_isim_beh.exe" -prj "C:/Users/Melissa/Documents/Arquitectura/Ejercicios_Xilinx/Procesador_Mono_Ciclo/TBALU_beh.prj" "work.TBALU" 
+-intstyle "ise" -incremental -o "C:/Users/Melissa/Documents/Arquitectura/Ejercicios_Xilinx/Procesador_Mono_Ciclo/TBProcesadorMonoCiclo_isim_beh.exe" -prj "C:/Users/Melissa/Documents/Arquitectura/Ejercicios_Xilinx/Procesador_Mono_Ciclo/TBProcesadorMonoCiclo_beh.prj" "work.TBProcesadorMonoCiclo" 

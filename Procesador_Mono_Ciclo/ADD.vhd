@@ -31,7 +31,7 @@ use IEEE.std_logic_unsigned.all;
 --use UNISIM.VComponents.all;
 
 entity ADD is
-    Port ( Areset : in  STD_LOGIC;
+    Port ( 
            Adin1 : in  STD_LOGIC_VECTOR (31 downto 0);
            Adin2 : in  STD_LOGIC_VECTOR (31 downto 0);
            Adout : out  STD_LOGIC_VECTOR (31 downto 0));
@@ -41,19 +41,13 @@ architecture AruitecturaSumador of ADD is
 
 begin
 
-process (Adin1, Adin2, Areset)
+process (Adin1, Adin2)
 
 begin
 
-if(Areset='1') then 
-	
 	Adout <="00000000000000000000000000000000";
 
-else
-	
 	Adout <=Adin1+Adin2;
-
-end if;
 	
 end process;
 
