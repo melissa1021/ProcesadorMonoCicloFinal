@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Melissa/Documents/Arquitectura/Ejercicios_Xilinx/Procesador_Mono_Ciclo/PorcesadroMonoCiclo.xst" -ofn "C:/Users/Melissa/Documents/Arquitectura/Ejercicios_Xilinx/Procesador_Mono_Ciclo/PorcesadroMonoCiclo.syr" 

@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Melissa/Documents/Arquitectura/Ejercicios_Xilinx/Procesador_Mono_Ciclo/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Melissa/Documents/Arquitectura/Ejercicios_Xilinx/Procesador_Mono_Ciclo/xst"
+elaborate
+-ifn ADD.prj
+-ifmt mixed
