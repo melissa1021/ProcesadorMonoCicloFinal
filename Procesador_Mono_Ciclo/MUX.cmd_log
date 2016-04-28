@@ -1,1 +1,0 @@
-vhdtdtfi -prj Procesador_Mono_Ciclo -o C:/Users/Melissa/Documents/Arquitectura/Ejercicios_Xilinx/Procesador_Mono_Ciclo/MUX.vhi -module MUX -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work MUX.vhd 
